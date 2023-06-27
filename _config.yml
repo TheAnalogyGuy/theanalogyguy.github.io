@@ -3,6 +3,6 @@ plugins:
 - jekyll-remote-theme
 
 title: The Analogy Guy
-description: A page for analogies. It is kind of a sheet of paper, only the markings are pixels on your screen.
-show_downloads: true
+description: A page for analogies. It is kind of like a sheet of paper, only the markings are pixels on your screen.
+show_downloads: false
 # google_analytics: [Your Google Analytics tracking ID]
