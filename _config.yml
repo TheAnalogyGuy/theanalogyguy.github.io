@@ -1,0 +1,8 @@
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+- jekyll-remote-theme
+
+title: The Analogy Guy
+description: A page for analogies. It is kind of a sheet of paper, only the markings are pixels on your screen.
+show_downloads: true
+# google_analytics: [Your Google Analytics tracking ID]
