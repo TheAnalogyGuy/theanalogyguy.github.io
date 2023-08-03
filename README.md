@@ -4,7 +4,6 @@ This is the readme of this page. Under construction for the forseeable future. I
 
 Interweb Prezences:
 - [Vidz (YouTube)](https://www.youtube.com/c/TheAnalogyGuy)
-- [Lolz (TikTok)](https://www.tiktok.com/@theanalogyguy)
 - [Noobz (Website)](https://www.ykengineer.com/)
 - [Twitz (Twitter)](https://twitter.com/TheAnalogyGuy)
 - [Helpz (Stack Overflow)](https://stackoverflow.com/users/6317990/theanalogyguy)
