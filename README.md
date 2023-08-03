@@ -11,5 +11,4 @@ Interweb Prezences:
 - [Blogz (Analogy Bytes)](https://analogbytes.wordpress.com/)
 
 
-
 Copyrightz (C) Whatever yearz it iz... All Rightz Rezerved.
